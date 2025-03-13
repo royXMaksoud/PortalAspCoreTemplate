@@ -1,0 +1,9 @@
+﻿global using System.Runtime.CompilerServices;
+global using Ardalis.SharedKernel;
+global using ASPPortalMicrosoft.Core.ContributorAggregate;
+global using ASPPortalMicrosoft.UseCases.Contributors.Create;
+global using FluentAssertions;
+global using MediatR;
+global using Microsoft.Extensions.Logging;
+global using NSubstitute;
+global using Xunit;
